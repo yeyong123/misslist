@@ -107,20 +107,6 @@
 				</aside>
 			</div>
 			</article>
-<article class="left">
-      <div class="inner">
-        <h3>MongoDB/redis/MySQL</h3>
-        <img src="images/123.png" alt="数据库语言" />
-        <aside>
-        <ol>
-          <li><a href="#">代码练习</a></li>
-          <li><a href="#">阅读笔记</a></li>
-          <li><a href="#">举一反三的项目</a></li>
-        </ol>
-        </aside>
-      </div>
-      </article>
-
 		</section>
 		<footer>
 		<p>个人的学习的进度表，我的Github的项目地址：<a href="http://github.com/yeyong14/misslist.git">任务列表</a>现在在进一步的完善中...</p>
